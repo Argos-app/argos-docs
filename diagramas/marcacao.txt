@@ -1,0 +1,4 @@
+Este arquivo apenas marca esse diretório vazio para que ele seja enviado
+ao repositório remoto.
+
+APAGUE ESTE ARQUIVO CASO ALGO SEJA ADICIONADO.
