@@ -2,9 +2,7 @@
 
 Repositório centralizado para toda a documentação do sistema **Argos**.
 
-Consulte o [documento de entrega e rastreabilidade de requisitos](REQUISITOS.md) para os requisitos do 2º Ano de DevOps, Desenvolvimento de Aplicações Dinâmicas e Desenvolvimento 2, com evidências e pendências por item.
-
-## Estrutura do Repositório
+Consulte o [documento de entrega e rastreabilidade de requisitos](REQUISITOS.md) para os requisitos do 2º Ano.
 
 ```
 argos-docs/
